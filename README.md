@@ -10,5 +10,5 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=I'm+fucking+vibe+coding" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=I+fucking+love+vibe+coding" alt="Typing Animation" />
 </div>
